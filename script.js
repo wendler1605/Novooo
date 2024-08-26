@@ -7,67 +7,67 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     
   {
-    enunciado: "A poluição do ar está se tornando um problema crítico em muitas cidades?",
+    enunciado: 
     alternativas: [
         {
-            texto: "Sim, a poluição do ar está se tornando um problema crítico em muitas cidades.",
-            afirmacao: "A poluição do ar está se tornando um problema crítico em muitas cidades.",
+            texto:
+            afirmacao:
         },
         {
-            texto: "Não, a poluição do ar não está se tornando um problema crítico em muitas cidades.",
-            afirmacao: "A poluição do ar não está se tornando um problema crítico em muitas cidades.",
+            texto:
+            afirmacao: 
         }
     ]
 },
 {
-    enunciado: "As escolas incentivarão a reciclagem e a redução de resíduos entre os alunos?",
+    enunciado: 
     alternativas: [
         {
-            texto: "Sim, as escolas incentivarão a reciclagem e a redução de resíduos entre os alunos.",
-            afirmacao: "As escolas incentivarão a reciclagem e a redução de resíduos entre os alunos."
+            texto: 
+            afirmacao
         },
         {
-            texto: "Não, as escolas não incentivarão a reciclagem e a redução de resíduos entre os alunos.",
-            afirmacao: "As escolas não incentivarão a reciclagem e a redução de resíduos entre os alunos."
+            texto:
+            afirmacao: 
         }
     ]
 },
 {
-    enunciado: "Haverá um aumento no uso de energias renováveis em áreas urbanas?",
-    alternativas: [
+    enunciado: 
+    alternativas: 
         {
-            texto: "Sim, haverá um aumento no uso de energias renováveis em áreas urbanas.",
-            afirmacao: "Haverá um aumento no uso de energias renováveis em áreas urbanas."
+            texto: 
+            afirmacao: 
         },
         {
-            texto: "Não, não haverá um aumento no uso de energias renováveis em áreas urbanas.",
-            afirmacao: "Não haverá um aumento no uso de energias renováveis em áreas urbanas."
+            texto:]
+            afirmacao ;
         }
     ]
 },
 {
-    enunciado: "As políticas ambientais contribuirão para a conservação dos recursos hídricos?",
+    enunciado:
     alternativas: [
         {
-            texto: "Sim, as políticas ambientais contribuirão para a conservação dos recursos hídricos.",
-            afirmacao: "As políticas ambientais contribuirão para a conservação dos recursos hídricos."
+            texto: 
+            afirmacao: 
         },
         {
-            texto: "Não, as políticas ambientais não contribuirão para a conservação dos recursos hídricos.",
-            afirmacao: "As políticas ambientais não contribuirão para a conservação dos recursos hídricos."
+            texto: 
+            afirmacao: 
         }
     ]
 },
 {
-    enunciado: "Os governos aumentarão as áreas protegidas para preservar a biodiversidade?",
+    enunciado: 
     alternativas: [
         {
-            texto: "Sim, os governos aumentarão as áreas protegidas para preservar a biodiversidade.",
-            afirmacao: "Os governos aumentarão as áreas protegidas para preservar a biodiversidade."
+            texto: 
+            afirmacao: 
         },
         {
-            texto: "Não, os governos não aumentarão as áreas protegidas para preservar a biodiversidade.",
-            afirmacao: "Os governos não aumentarão as áreas protegidas para preservar a biodiversidade."
+            texto: 
+            afirmacao: 
         }
     ]
  },
